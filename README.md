@@ -1,6 +1,6 @@
 # Amazon Clone Application using React JS
 
-<img src="https://github.com/Subhampreet/Amazon-Clone-ReactJS/blob/main/public/amazon-head.png">
+<img src="https://github.com/TJoshi3637/Amazon-Clone-ReactJS/blob/main/public/amazon-head.png">
 
 ### Features
 
